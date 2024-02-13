@@ -7,4 +7,4 @@
 - 🎓 I have a master's degree in computer science from Imperial and a master's degree in clinical neuroscience from UCL
 - 🌈 Fun facts about me: I've spent my life so far in roughly equal 1/3 of time between Canada, China, and the UK 🇨🇦 🇨🇳 🇬🇧! Also, I love to lift heavy and pet cats 🏋️‍♀️🐾
 
-Reach me on [Linkedin](https://www.linkedin.com/in/jennifer-a-jiang) or shoot me an [email](mailto:jennifer.a.jiang@gmail.com)!
+Reach me on [Linkedin](https://www.linkedin.com/in/jenniferjiangkells) or shoot me an [email](mailto:jenniferjiangkells@gmail.com)!
