@@ -1,6 +1,6 @@
 ## Hi, I'm Jennifer 👋
 
-👩‍💻 I'm a senior research software engineer at [UCL)(https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics). I'm passionate about building and integrating NLP/AI solutions in healthcare systems.
+👩‍💻 I'm a senior research software engineer at [UCL](https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics). I'm passionate about building and integrating NLP/AI solutions in healthcare systems.
 
 ### Projects: 
 - [HealthChain](https://github.com/dotimplement/HealthChain) 💫 🏥
