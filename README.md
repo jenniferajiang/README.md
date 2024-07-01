@@ -9,7 +9,7 @@
 
 ### About me:
 - ⚽ Previously, I was somewhere between a developer and data scientist at a computer vision fitness tech startup
-- 🎓 I have a master's degree in computer science from Imperial and a master's degree in clinical neuroscience from UCL
-- 🌈 Fun fact about me: I've spent my life so far in roughly equal 1/3 of time between Canada, China, and the UK 🇨🇦 🇨🇳 🇬🇧! Also, I love to lift heavy and pet cats 🏋️‍♀️🐾
+- 🎓 I completed my master's degree in computer science from Imperial and in clinical neuroscience from UCL
+- 🌈 Fun fact about me: I've spent my life so far in roughly equal 1/3 of time between Canada, China, and the UK 🇨🇦 🇨🇳 🇬🇧! In my spare time I enjoy lifting heavy and making my cat an influencer 🏋️‍♀️🐾
 
 Reach me on [Linkedin](https://www.linkedin.com/in/jenniferjiangkells) or shoot me an [email](mailto:jenniferjiangkells@gmail.com)!
