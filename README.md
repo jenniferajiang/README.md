@@ -1,9 +1,9 @@
 ## Hi, I'm Jennifer 👋
 
-👩‍💻 I'm a senior research software engineer at [UCL](https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics). I build AI/NLP tools for healthcare.
+👩‍💻 I'm the founder of [.implement](https://dotimplement.ai) and a senior research software engineer at [UCL](https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics). I build open source AI and NLP tools for healthcare.
 
 ### Projects: 
-- [HealthChain](https://github.com/dotimplement/HealthChain) 💫 🏥
+- [HealthChain](dotimplement.github.io/HealthChain/) 💫 🏥
 - [MiADE (Medical information AI Data Extractor)](https://www.ucl.ac.uk/health-informatics/research/medical-information-ai-data-extractor-miade) 🛠️
 - [miade-llm](https://github.com/uclh-criu/miade-llm)
 
